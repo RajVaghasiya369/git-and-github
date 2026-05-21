@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
 4 and four
 
